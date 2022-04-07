@@ -5,6 +5,7 @@
   "main": "build/index.js",
   "scripts": {
     "start": "nodemon",
+    "build": "npx rimraf ./build && tsc",
     "test": "jest --detectOpenHandles"
   },
   "repository": {
