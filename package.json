@@ -4,6 +4,7 @@
   "description": "WGO Module Template",
   "main": "build/index.js",
   "scripts": {
+    "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,6 +24,8 @@
   },
   "homepage": "https://github.com/wisegar-org/wgo-template-module#readme",
   "devDependencies": {
+    "nodemon": "2.0.15",
+    "ts-node": "10.7.0",
     "typescript": "4.6.3"
   }
 }
