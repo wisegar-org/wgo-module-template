@@ -1,0 +1,25 @@
+{
+  "name": "wgo-template-module",
+  "version": "0.0.1-build.0",
+  "description": "WGO Module Template",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisegar-org/wgo-template-module.git"
+  },
+  "keywords": [
+    "wisegar",
+    "template",
+    "nodejs",
+    "typescript"
+  ],
+  "author": "Wisegar.org Development Group",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wisegar-org/wgo-template-module/issues"
+  },
+  "homepage": "https://github.com/wisegar-org/wgo-template-module#readme"
+}
