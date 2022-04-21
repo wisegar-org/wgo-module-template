@@ -1,5 +1,5 @@
 # WGO Module Template
-## Nodejs template base module used to create a basic project
+## Nodejs simple template used to create a basic project
 This proyect template uses:
 - Typescript
 - Jest
