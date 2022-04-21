@@ -1,5 +1,5 @@
 {
-  "name": "wgo-template-module",
+  "name": "@wisegar-org/wgo-template-module",
   "version": "0.0.1-build.0",
   "description": "WGO Module Template",
   "main": "build/index.js",
